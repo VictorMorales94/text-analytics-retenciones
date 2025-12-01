@@ -122,7 +122,7 @@ Gráficos PNG automáticos
 
 ![Torta por Operadores](Samples/TextA_TortaOperadores.png)
 ![Torta por Grupo](Samples/TextA_TortaGrupos.png)
-![Barras por Tiempo](Samples/TextA_OperadoresSemana.png)
+![Barras por Tiempo](Samples/TextA_OperadorSemana.png)
 
 Pipeline reproducible para nuevos meses
 
