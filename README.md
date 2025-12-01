@@ -116,7 +116,7 @@ Distribución por grupo
 
 Exportación a Excel del dataset filtrado
 
-![Excel Exportado](Samples/TextA_ResultadoExcel.png)
+![Excel Exportado](Samples/TextA_ResultadoExcel.PNG)
 
 Gráficos PNG automáticos
 
