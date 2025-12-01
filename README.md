@@ -120,9 +120,9 @@ Exportación a Excel del dataset filtrado
 
 Gráficos PNG automáticos
 
-![Torta por Operadores](Samples/TextA_TortaOperadores.PNG)
-![Torta por Grupo](Samples/TextA_TortaGrupos.PNG)
-![Barras por Tiempo](Samples/TextA_OperadoresSemana.PNG)
+![Torta por Operadores](Samples/TextA_TortaOperadores.png)
+![Torta por Grupo](Samples/TextA_TortaGrupos.png)
+![Barras por Tiempo](Samples/TextA_OperadoresSemana.png)
 
 Pipeline reproducible para nuevos meses
 
