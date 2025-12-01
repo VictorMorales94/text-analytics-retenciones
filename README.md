@@ -113,7 +113,13 @@ Distribución por grupo
 
 Exportación a Excel del dataset filtrado
 
+![Excel Exportado](samples/TextA_ResultadoExcel.png)
+
 Gráficos PNG automáticos
+
+![Torta por Operadores](samples/TextA_TortaOperadores.png)
+![Torta por Grupo](samples/TextA_TortaGrupos.png)
+![Barras por Tiempo](samples/TextA_OperadoresSemana.png)
 
 Pipeline reproducible para nuevos meses
 
