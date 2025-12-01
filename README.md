@@ -103,6 +103,9 @@ python src/main.py
 
 ---
 
+### ⚙️ Ejecución del script original  
+![Script Original](samples/TextA_EjecucionConsola.png)
+
 📊 Resultados que genera
 
 Conteo de ocurrencias por operador
