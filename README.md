@@ -104,7 +104,7 @@ python src/main.py
 ---
 
 ### ⚙️ Ejecución del script original  
-![Script Original](samples/TextA_EjecucionConsola.png)
+![Script Original](Samples/TextA_EjecucionConsola.PNG)
 
 📊 Resultados que genera
 
@@ -120,9 +120,9 @@ Exportación a Excel del dataset filtrado
 
 Gráficos PNG automáticos
 
-![Torta por Operadores](samples/TextA_TortaOperadores.png)
-![Torta por Grupo](samples/TextA_TortaGrupos.png)
-![Barras por Tiempo](samples/TextA_OperadoresSemana.png)
+![Torta por Operadores](Samples/TextA_TortaOperadores.PNG)
+![Torta por Grupo](Samples/TextA_TortaGrupos.PNG)
+![Barras por Tiempo](Samples/TextA_OperadoresSemana.PNG)
 
 Pipeline reproducible para nuevos meses
 
